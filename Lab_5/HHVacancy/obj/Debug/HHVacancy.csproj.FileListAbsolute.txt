@@ -1,0 +1,13 @@
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\bin\Debug\HHVacancy.exe.config
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\bin\Debug\HHVacancy.exe
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\bin\Debug\HHVacancy.pdb
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\obj\Debug\HHVacancy.csprojAssemblyReference.cache
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\obj\Debug\HHVacancy.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\obj\Debug\HHVacancy.csproj.CopyComplete
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\obj\Debug\HHVacancy.exe
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\obj\Debug\HHVacancy.pdb
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\bin\Debug\RestSharp.dll
+C:\Users\Dmitry Nikitin\Desktop\URFU\Urfu\7\ИТ\5\HHVacancy\HHVacancy\bin\Debug\RestSharp.xml

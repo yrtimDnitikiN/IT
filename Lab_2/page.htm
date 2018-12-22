@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+       <meta charset="utf8">
+       <title>LAB_2 "Live" game</title> 
+       <link rel="stylesheet" href="../General/reset.css"/>
+       <style>
+        body{
+            display: flex;
+            flex-direction: column;
+        }
+        
+        #canvas-wrapper{
+            flex: 3;
+            height: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 20px;
+        }   
+
+        #game-field{
+            margin: 0;
+        }
+        
+        #game-options{
+            display: block;
+            background: black;
+            text-align: center;
+            flex: 2;
+        }
+
+        #game-options .option{
+            display: flex;
+            justify-content: center;
+            color: white;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            margin: 10px;
+        }
+
+        #game-name{
+            font-size: 40px;
+        }
+
+        #restart-game{
+            display: none;
+        }
+
+        .button
+        {
+            background: grey;
+            border: solid 2px white;
+            width: 50%;
+        }
+
+        @media(max-width: 800px)
+        {
+            #canvas-wrapper{
+                margin-top: 0px;
+            }  
+        }
+   </style>
+       <script src="Live.js"></script>
+    </head>
+    <body>  
+        <div id="game-options">
+            <div class="option" id="game-name">Game Life</div>
+            <div class="option" id="buttons">
+                <div class="button" id="start-game">Start</div>
+                <div class="button" id="restart-game">Restart</div>
+            </div>
+            <div class="option" id="result">
+                    Number of generations: <span id="count">0</span>
+            </div>
+        </div>
+        <div id="canvas-wrapper">
+            <canvas id="game-field">Game field</canvas>
+        </div>
+    </body>
+</html>
